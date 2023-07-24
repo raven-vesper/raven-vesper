@@ -16,6 +16,7 @@ right now, i'm delving into several hobbies and interests at once. namely:
   - watching films
   - playing the guitar + singing
   - dancing
+
 as you can see, it is a lot, and you might say "where do you get the time to do all these?" and the answer is: i don't sleep ;) plus really good time management (and a fuckton of coffee).
 
 my main goal in programming:
